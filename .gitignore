@@ -1,0 +1,28 @@
+# Ignore all archive and binary distribution files
+*.zip
+*.tar.gz
+*.tar
+*.7z
+*.rar
+gradle-*-bin.zip
+gradle-*-all.zip
+# Ignore other large files
+*.apk
+*.aab
+*.exe
+*.dmg
+*.iso
+*.img
+*.msi
+*.deb
+*.rpm
+*.pkg
+*.bin
+*.obj
+*.so
+*.dll
+*.class
+*.o
+*.pyc
+*.pyo
+*.log
